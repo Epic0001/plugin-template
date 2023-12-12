@@ -1,6 +1,6 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "test Plugin",
+    "description": "A plugin for use as a test.",
     "authors": [
         {
             "name": "You!",
